@@ -1,0 +1,1 @@
+{"stats": {"errors": 0, "failures": 0, "passes": 1, "skipped": 0, "encoding": "UTF-8", "total": 1}, "results": [{"classname": "index_test:TxTest", "name": "test_parse_locktime", "time": 0.0005791187286376953, "type": "success"}]}
